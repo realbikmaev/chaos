@@ -14,3 +14,4 @@ i just spent inordinate amount of time (3 hours to be precise) just to setup pyt
 3. handy fn:
     - pip freeze > ./requirements.txt
 4. decode what to do with omz and zsh
+5. brew install cmake libomp
